@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    font-style:italic;
+}
+.cover{
+    height: 400px;
+    color: rgb(255, 255, 255);
+    background-image: url('img/arco\ de\ entrada\ rec.jpg');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+}
+
+
+.card{
+
+border: 0
+
+}
